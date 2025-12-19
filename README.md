@@ -90,3 +90,6 @@ This report includes:
 
 > Screenshots are stored under the **`/visuals`** folder (not embedded into this README).
 
+---
+
+Source: https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025
